@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+### GALLERY
 
-You can use the [editor on GitHub](https://github.com/arjunhari2704/PHOTO-COLLECTION/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Click to view the original images]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **THE CLASS**
+  
+  - THE CLASSROOM/FABLAB
+  
+  [<img src="https://ameenkb.github.io/Images/Class 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 01.jpg) [<img src="https://ameenkb.github.io/Images/Class 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 03.jpg) [<img src="https://ameenkb.github.io/Images/Classroom.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Classroom.jpg)
+  
+  - CLASS LEAD BY MR. MUHAMMED JASEEL
+  
+  [<img src="https://ameenkb.github.io/Images/Lecture 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Lecture 01.jpg)
+  
+- **3D PRINTER**
 
-### Markdown
+  - THE ULTIMAKER 3D PRINTER
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  [<img src="https://ameenkb.github.io/Images/3D Printer 04.jpg" height="256" width="192">](https://ameenkb.github.io/Images/3D Printer 04.jpg) [<img src="https://ameenkb.github.io/Images/3D Printer 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/3D Printer 01.jpg)
 
-```markdown
-Syntax highlighted code block
+  - CONTROL PANEL OF THE 3D PRINTER
 
-# Header 1
-## Header 2
-### Header 3
+  [<img src="https://ameenkb.github.io/Images/3D Printer 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/3D Printer 03.jpg) 
 
-- Bulleted
-- List
+  - 3D PRINTER IN ACTION
 
-1. Numbered
-2. List
+  [<img src="https://ameenkb.github.io/Images/3D Printing 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/3D Printing 01.jpg)
 
-**Bold** and _Italic_ and `Code` text
+  - 3D PRINTER DESIGNER PANEL
 
-[Link](url) and ![Image](src)
-```
+  [<img src="https://ameenkb.github.io/Images/Designing 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Designing 01.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  - A FINISHED 3D PRINTED SCULPTURE
+  
+  [<img src="https://ameenkb.github.io/Images/Sculpture 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Sculpture 01.jpg)
 
-### Jekyll Themes
+  - BASIC PRINTED PROTOTYPE
+ 
+  [<img src="https://ameenkb.github.io/Images/Basic Prototype 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Basic Prototype 1.jpg) [<img src="https://ameenkb.github.io/Images/Basic Prototype 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Basic Prototype 2.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arjunhari2704/PHOTO-COLLECTION/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - PROTOTYPE PRINTING
 
-### Support or Contact
+  [<img src="https://ameenkb.github.io/Images/Prototype Printing 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 1.jpg) [<img src="https://ameenkb.github.io/Images/Prototype Printing 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 2.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **CNC MACHINES**
+
+  - CNC
+  
+  [<img src="https://ameenkb.github.io/Images/CNC 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/CNC 1.jpg) [<img src="https://ameenkb.github.io/Images/CNC 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/CNC 2.jpg)
+  
+  - LASER CUTTING MACHINE
+ 
+  [<img src="https://ameenkb.github.io/Images/Laser Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Laser Cutting Machine.jpg)
+  
+  - LASER CUTTING MACHINE IN ACTION
+  
+  [<img src="https://ameenkb.github.io/Images/Laser Cutter 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Laser Cutter 01.jpg)
+
+  - SAND BLASTING MACHINE
+  
+  [<img src="https://ameenkb.github.io/Images/Sand Blasting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Sand Blasting Machine.jpg)
+  
+  - VINYL CUTTING MACHINE
+  
+  [<img src="https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg)
+
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
